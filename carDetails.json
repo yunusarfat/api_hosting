@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Model S",
+    "brand": "Tesla",
+    "description": "A premium all-electric sedan with long range, high performance, and cutting-edge autonomous driving capabilities.",
+    "price": 79999,
+    "rating": 4.8,
+    "image": "https://images.hgmsites.net/hug/tesla_100179532_h.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Civic",
+    "brand": "Honda",
+    "description": "A compact car known for its reliability, fuel efficiency, and modern safety features—ideal for daily commutes.",
+    "price": 23000,
+    "rating": 4.5,
+    "image": "https://car-images.bauersecure.com/pagefiles/4009/honda_civic.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mustang GT",
+    "brand": "Ford",
+    "description": "An iconic American muscle car with a V8 engine, aggressive styling, and thrilling performance on road and track.",
+    "price": 55000,
+    "rating": 4.6,
+    "image": "https://th.bing.com/th/id/R.b246f3a72eea4183d7047e12f2181f73?rik=iFZHeTuQfsrS2g&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2018_ford_mustang_gt_fastback_4k_7-HD.jpg&ehk=INXMe19kIlj9qaMGtbE%2fshvhc6be5G0YX3UAXyv3l9U%3d&risl=1&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 4,
+    "name": "Prius",
+    "brand": "Toyota",
+    "description": "A pioneer in hybrid technology, the Prius offers impressive fuel economy and a comfortable ride for eco-conscious drivers.",
+    "price": 650000,
+    "rating": 4.4,
+    "image": "https://th.bing.com/th/id/R.663ce1f4c0a832fe400ae58ca5938c16?rik=xWVAkKMrYvMgug&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 5,
+    "name": "Crown",
+    "brand": "Toyota",
+    "description": "A luxury sedan featuring refined interior design, cutting-edge technology, and smooth hybrid performance.",
+    "price": 42000,
+    "rating": 4.7,
+    "image": "https://www.mad4wheels.com/img/free-car-images/mobile/19724/toyota-crown-crossover-concept-2022-681884.jpg"
+  },
+  {
+    "id": 6,
+    "name": "3 Series",
+    "brand": "BMW",
+    "description": "A dynamic sport sedan offering precision handling, turbocharged engines, and premium German craftsmanship.",
+    "price": 45000,
+    "rating": 4.6,
+    "image": "https://th.bing.com/th/id/R.c7e4042ecb93b84607bf3c7323bd0327?rik=27qhwh4YaFhYhA&riu=http%3a%2f%2fcdn.bmwblog.com%2fwp-content%2fuploads%2f2015%2f05%2f2015-bmw-3-series-sedan-images-07.jpg&ehk=PCyuIpvlJS%2bsiAt%2fFXxEQYI53%2bPREPvgIyaJuIfrfyI%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 7,
+    "name": "Taycan",
+    "brand": "Porsche",
+    "description": "A high-performance electric sports car combining Porsche driving dynamics with cutting-edge EV technology.",
+    "price": 28000,
+    "rating": 4.5,
+    "image": "https://p.turbosquid.com/ts-thumb/yf/vJC60U/Md/2020_porsche_taycan_upd_0004/jpg/1619687791/1920x1080/fit_q99/be9dec74b8fce38317410ee97cd78c66f474c822/2020_porsche_taycan_upd_0004.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Cullinan",
+    "brand": "Rolls-Royce",
+    "description": "A luxury SUV offering unmatched comfort, elegance, and power—crafted for elite travel experiences.",
+    "price": 27000,
+    "rating": 4.6,
+    "image": "https://th.bing.com/th/id/OIP.g34mc0vE_F1P0Oxv8EssOAHaE8?cb=iwp1&rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 9,
+    "name": "Model Y",
+    "brand": "Tesla",
+    "description": "A versatile electric crossover with spacious interior, long range, and smart tech like autopilot and over-the-air updates.",
+    "price": 49999,
+    "rating": 4.7,
+    "image": "https://cdcssl.ibsrv.net/autodata/images/?IMG=USD00TSS021A01307.JPG&WIDTH=1200"
+  },
+  {
+    "id": 10,
+    "name": "Centenario",
+    "brand": "Lamborghini",
+    "description": "A rare hypercar built to honor Lamborghini’s centenary—featuring carbon fiber body, V12 engine, and aggressive aerodynamics.",
+    "price": 30000,
+    "rating": 4.5,
+    "image": "https://images.hdqwalls.com/download/lamborghini-centenario-hd-3840x2400.jpg"
+  }
+]
