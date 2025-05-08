@@ -114,16 +114,16 @@
     "description": "A luxurious and rugged SUV, this Range Rover model embodies sophistication and off-road prowess.",
     "price": 300000,
     "rating": 4.5,
-    "image": "https://th.bing.com/th/id/OIP._EzOav1PLg1r8X3XoR-pEwHaEK?cb=iwp1&rs=1&pid=ImgDetMain"
+    "image": "https://conduciendo.com/wp-content/uploads/Rolls-Royce-Phantom-Privacy-Suite-110321-01.jpg"
     },
     {
     "id": 14,
-    "name": "Versa",
-    "brand": "Nissan",
+    "name": "F1",
+    "brand": "Mclaren",
     "description": "A luxurious and rugged SUV, this Range Rover model embodies sophistication and off-road prowess.",
     "price": 30000,
     "rating": 2.5,
-    "image": "https://th.bing.com/th/id/R.b7b72368254e78c652b6b3f227dbca0b?rik=zzH0gyCZDw45Cg&pid=ImgRaw&r=0"
+    "image": "https://th.bing.com/th/id/OIP.oKGUaRZsPSNy8T8fVOBhsQHaEK?w=328&h=184&c=7&r=0&o=7&cb=iwp1&dpr=1.3&pid=1.7&rm=3"
     },
     {
     "id": 15,
