@@ -88,5 +88,23 @@
     "price": 30000,
     "rating": 4.5,
     "image": "https://images.hdqwalls.com/download/lamborghini-centenario-hd-3840x2400.jpg"
+  },
+   {
+    "id": 11,
+    "name": "Atto 3",
+    "brand": "BYD",
+    "description": "A stylish and high-tech compact electric SUV, the Atto 3 by BYD blends efficiency with modern design.",
+    "price": 30000,
+    "rating": 4.5,
+    "image": "https://th.bing.com/th/id/OIP.VYLh3ROsY1XBefcc3mP5JQHaFL?cb=iwp1&rs=1&pid=ImgDetMain"
+  },
+   {
+    "id": 12,
+    "name": "Oren Pippaw",
+    "brand": "Range Rover",
+    "description": "A luxurious and rugged SUV, this Range Rover model embodies sophistication and off-road prowess.",
+    "price": 30000,
+    "rating": 4.5,
+    "image": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/range_rover_ev_final_2022.jpg"
   }
 ]
