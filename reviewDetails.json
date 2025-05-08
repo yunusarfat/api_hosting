@@ -1,0 +1,32 @@
+[
+  {
+    "name": "OGGY",
+    "image": "https://th.bing.com/th/id/OIP._Cmky23BQSWmXgY62E_41gHaG5?w=192&h=180&c=7&r=0&o=7&cb=iwp1&dpr=1.3&pid=1.7&rm=3",
+    "review": "An incredibly smooth ride with tech features that genuinely make driving more enjoyable. It feels futuristic yet intuitive."
+  },
+  {
+    "name": "JERRY",
+    "image": "https://th.bing.com/th/id/OIP.hVgph_cSXkho_csoZh6TTwHaJS?cb=iwp1&rs=1&pid=ImgDetMain",
+    "review": "Handles everyday commutes perfectly. It’s reliable, fuel-efficient, and never lets you down in the long run."
+  },
+  {
+    "name": "DOREMON",
+    "image": "https://th.bing.com/th/id/OIP.vrbopt9dj0VSm784eXvGzAHaHa?w=194&h=194&c=7&r=0&o=7&cb=iwp1&dpr=1.3&pid=1.7&rm=3",
+    "review": "Feels premium inside and out. It responds beautifully to the road and delivers a confident, fun drive every time."
+  },
+  {
+    "name": "ALADIN",
+    "image": "https://th.bing.com/th/id/OIP.B1bmyaI4UKdl2f1v8t1_PAHaHa?w=157&h=180&c=7&r=0&o=7&cb=iwp1&dpr=1.3&pid=1.7&rm=3",
+    "review": "It’s thrilling to drive, especially on open roads. Acceleration is quick and the engine feels alive under your foot."
+  },
+  {
+    "name": "BEN 10",
+    "image": "https://th.bing.com/th/id/OIP.kRNCgIJFSr5srSSBsNK_AwHaHy?w=191&h=201&c=7&r=0&o=7&cb=iwp1&dpr=1.3&pid=1.7&rm=3",
+    "review": "Combines luxury and comfort perfectly. The interior is quiet and relaxing, with just the right amount of modern flair."
+  },
+  {
+    "name": "SCIENTIST",
+    "image": "https://th.bing.com/th/id/OIP.qo8lffzhxs1zOVrMwKdabQAAAA?cb=iwp1&rs=1&pid=ImgDetMain",
+    "review": "A head-turner for sure. Everything from the design to the engine sound feels premium and incredibly well-engineered."
+  }
+]
